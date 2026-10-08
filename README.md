@@ -13,7 +13,7 @@ I build production **RAG / LLM** systems and full-stack web apps — from AI cha
 pipelines to real-time multiplayer apps and crisis-response platforms. I've shipped systems
 **end-to-end**: backend, databases, security, and deployment.
 
-🎓 Computer Engineering @ **Birzeit University**, Palestine 🇵🇸
+🎓 Computer Engineering @ **Birzeit University**
 
 ---
 
